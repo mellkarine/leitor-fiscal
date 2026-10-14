@@ -1,0 +1,5 @@
+arquivo,alerta_esperado
+nota_002.pdf,total diverge da soma dos itens
+nota_003.pdf,CNPJ do emitente inválido
+boleto_002.pdf,vencimento ausente
+recibo_002.pdf,valor total ausente (só por extenso)

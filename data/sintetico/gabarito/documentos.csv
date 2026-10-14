@@ -1,0 +1,8 @@
+arquivo,tipo,emitente,doc_emitente,numero,data,vencimento,valor_total,destinatario
+nota_001.pdf,nota_fiscal,Distribuidora Aurora de Papéis Ltda,45.012.367/0001-63,001245,2026-09-14,,448.00,Padaria Pão Nosso Ltda
+boleto_001.pdf,boleto,Internet Conecta Telecom Ltda,33.098.765/0001-65,20261045,2026-10-01,2026-10-10,129.90,Maria Souza Almeida
+recibo_001.pdf,recibo,João da Silva,529.982.247-25,0032,2026-09-21,,350.00,Padaria Pão Nosso Ltda
+nota_002.pdf,nota_fiscal,Comercial Serra Verde Atacado Ltda,54.021.889/0001-12,000873,2026-09-15,,458.00,Padaria Pão Nosso Ltda
+nota_003.pdf,nota_fiscal,Mercado Central Hortifruti Ltda,92.033.415/0001-81,002310,2026-09-20,,321.00,Padaria Pão Nosso Ltda
+boleto_002.pdf,boleto,Academia Corpo Ativo Ltda,62.011.148/0001-89,55012,2026-10-03,,87.50,Carlos Eduardo Nunes
+recibo_002.pdf,recibo,Limpeza Total Serviços ME,11.222.333/0001-81,0047,2026-09-28,,,Padaria Pão Nosso Ltda
